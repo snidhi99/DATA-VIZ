@@ -1,4 +1,4 @@
-#Vaccination Impact Before and After COVID-19 Visualization in Tableau
+VACCINATION IMPACT BEFORE AND AFTER COVID-19 VISUALIZATION IN TABLEAU :
 
 Data Visualization in Tableau to show the impact of vaccination on the COVID-19 pandemic through different states of USA.
 
